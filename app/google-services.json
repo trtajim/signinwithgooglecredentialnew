@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907971559789",
+    "project_id": "login-628bd",
+    "storage_bucket": "login-628bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907971559789:android:b700153e5c871088f11a64",
+        "android_client_info": {
+          "package_name": "com.tajim.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907971559789-gljh3d2m5439ejt5mhkv0ce7n5epbdcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tajim.googlelogin",
+            "certificate_hash": "e276f54cc14839d802f425f56b1413f4be3527f5"
+          }
+        },
+        {
+          "client_id": "907971559789-qi7k2f8k4srraa9b4liqrg9htdvad8cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9AniU7B2d7fq_d4w5YSMrRdCE-bpAck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907971559789-qi7k2f8k4srraa9b4liqrg9htdvad8cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
